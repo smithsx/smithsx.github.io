@@ -1,0 +1,15 @@
+.container{
+    max-width: 750px;
+    text-align: center;
+    margin-top: 50px;
+}
+li{
+    font-size: large;
+    list-style-type: none;
+}
+a{
+    color:white;
+}
+img{
+    margin-bottom: 30px;
+}

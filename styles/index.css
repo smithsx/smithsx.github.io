@@ -1,0 +1,11 @@
+.container{
+    max-width: 750px;
+    text-align: center;
+    margin-top: 50px;
+}
+.headshot{
+    width: auto;
+    height: 35%;
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
