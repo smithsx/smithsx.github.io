@@ -3,6 +3,9 @@
     text-align: center;
     margin-top: 50px;
 }
+h1{
+    text-shadow: 3px 3px 6px black;
+}
 .headshot{
     width: auto;
     height: 35%;
