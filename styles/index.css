@@ -9,6 +9,9 @@ h1{
 .headshot{
     width: auto;
     height: 35%;
-    margin-bottom: 30px;
-    border-radius: 50%;
+    margin-bottom: 30px;  
+}
+h2{
+    text-shadow: 2px 2px 8px black;
+    font-family: "Fantasy", Papyrus;
 }
