@@ -1,0 +1,10 @@
+Plans for the portfolio going forward:
+
+About Me page, i.e. the front page: Make this a bit shorter, emphasizing current skills, career plans, and what they can find in the portfolio. I should probably try to get a more recent professional picture and maybe do a cropped version of my chibi for the top left corner (in the navbar). Put in left side bar with pop-out information that tells them some of the more "trivial" details. Namely: hobbies, unrelated accomplishments, family life, etc. Stuff they might ask as a get to know you part of an interview. Should probably include links to whatever social media I do have.
+
+If I opt not to do a pop out, then what it should do is change the page without reloading to show the new material. Do it like a fade to. So for things like writing I can reference my one publication, my writing blog on wordpress. For hobbies I can show pictures of me disc golfing, and talk about why I love it. Show pictures of me and Eli for the family portion. And maybe some other stuff.
+
+Course pages: I should put links to the stuff I have built, even if it was just for a course. For class projects, find a way to host them in the browser page as an applet or something. Same for projects I have uploaded to GitHub. For the javascript course I am going to do just a few different projects: the final project. I could integrate the weather app and the clock into a page somewhere.
+
+
+Branch: Build the portfolio as a top down exploration game for playing in the browser. "Port Samuel" or something like that. Have the PC get off a boat and explore the town, learn about the town's founder as they visit a restaurant, a recruiter's office, a cave, a disc golf course
