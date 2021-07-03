@@ -6,5 +6,4 @@ If I opt not to do a pop out, then what it should do is change the page without 
 
 Course pages: I should put links to the stuff I have built, even if it was just for a course. For class projects, find a way to host them in the browser page as an applet or something. Same for projects I have uploaded to GitHub. For the javascript course I am going to do just a few different projects: the final project. I could integrate the weather app and the clock into a page somewhere.
 
-
-Branch: Build the portfolio as a top down exploration game for playing in the browser. "Port Samuel" or something like that. Have the PC get off a boat and explore the town, learn about the town's founder as they visit a restaurant, a recruiter's office, a cave, a disc golf course
+Project: Create a fake pizza place. Web page, app, and all. Pictures, writing, and all that jazz. Base it on Willemsburg.
